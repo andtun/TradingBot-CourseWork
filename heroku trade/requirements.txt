@@ -1,0 +1,6 @@
+bottle
+pandas
+numpy
+tensorflow
+scikit-learn
+alpaca_trade_api
